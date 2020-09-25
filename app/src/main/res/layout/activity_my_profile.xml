@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="match_parent"
+    android:background="@drawable/Wallpaper"
+    tools:context=".MyProfile">
+
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/_125dp"
+        android:layout_marginTop="@dimen/_100dp"
+        android:fontFamily="@font/pirata_one"
+        android:text="@string/name"
+        android:textSize="@dimen/_50sp" />
+
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/_164dp"
+        android:layout_marginTop="@dimen/_411dp"
+        android:background="@android:color/black"
+        android:text="@string/masuk"
+        android:textColor="@android:color/white" />
+
+
+</RelativeLayout>

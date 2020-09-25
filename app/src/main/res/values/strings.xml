@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Myprofile</string>
+    <string name="name">My Profile</string>
+    <string name="masuk">Start</string>
+    <string name="introduce_nmy_self">Introduce \nMy Self</string>
+    <string name="hallo_nmy_name_is_ummi_kolbia_i_was_born_in_lubuk_ngin_palembang_south_sumatra_i_am_the_2nd_child_of_both_siblings_you_can_call_me_ummi_thank_you_greetings_sweet_ummi">Hallo \nMy name is Ummi Kolbia I was born in Lubuk ngin Palembang, South Sumatra. I am the 2nd child of both siblings you can call me ummi thank you Greetings sweet Ummi</string>
+    <string name="that_opportunity_is_like_a_sunrise_nif_you_wait_too_long_you_can_miss_it">That opportunity is like a sunrise. \nIf you wait too long, you can miss it.</string>
+    <string name="my_profile">my profile</string>
+</resources>

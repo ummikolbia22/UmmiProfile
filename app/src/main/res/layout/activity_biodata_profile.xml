@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/sun_flower"
+    tools:context=".BiodataProfile">
+
+
+    <ImageView
+        android:layout_width="@dimen/_200dp"
+        android:layout_height="@dimen/_250dp"
+        android:layout_marginTop="@dimen/_10dp"
+        android:src="@drawable/profil"
+        android:contentDescription="@string/my_profile" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="@dimen/_200dp"
+        android:text="@string/introduce_nmy_self"
+        android:textColor="@android:color/black"
+        android:textSize="@dimen/_30sp" />
+
+
+    <TextView
+        android:layout_width="362dp"
+        android:layout_height="197dp"
+        android:layout_marginStart="@dimen/_200dp"
+        android:layout_marginTop="@dimen/_100dp"
+        android:text="@string/hallo_nmy_name_is_ummi_kolbia_i_was_born_in_lubuk_ngin_palembang_south_sumatra_i_am_the_2nd_child_of_both_siblings_you_can_call_me_ummi_thank_you_greetings_sweet_ummi"
+        android:textColor="@android:color/black"
+        android:textSize="@dimen/_15sp" />
+
+    <TextView
+        android:layout_width="340dp"
+        android:layout_height="@dimen/_50dp"
+        android:layout_marginStart="@dimen/_50sp"
+        android:layout_marginTop="@dimen/_350dp"
+        android:text="@string/that_opportunity_is_like_a_sunrise_nif_you_wait_too_long_you_can_miss_it"
+        android:textSize="@dimen/_20sp" />
+
+
+</RelativeLayout>
